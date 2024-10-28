@@ -1,4 +1,4 @@
-# Configuring Multi-Factor Authentication (MFA) in AWS IAM
+# Configuring MFA in AWS IAM
 
 ![AWS MFA](https://imgur.com/qqU87hA.jpg)
 
