@@ -10,6 +10,8 @@ This project demonstrates the step-by-step process of configuring Multi-Factor A
 ### Component used:
 
 - Amazon Web Service (AWS)
+  - AWS IAM
+- Authy (authenticator application)
 
 ## Select User for MFA Setup 
 
